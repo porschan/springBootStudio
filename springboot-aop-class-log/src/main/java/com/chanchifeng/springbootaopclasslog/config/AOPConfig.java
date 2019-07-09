@@ -22,4 +22,3 @@ public class AOPConfig {
         return object;
     }
 }
-
